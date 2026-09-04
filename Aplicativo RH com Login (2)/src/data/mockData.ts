@@ -6,8 +6,8 @@ export const initialAdmins: Admin[] = [
     name: 'Administrador',
     login: '14027455916',
     password: '45032010',
-    ID: 'funcionario adrian'
-    name:'funcionario'
+    ID: 'funcionario'
+    name:'funcionario 01'
     login:Adrian@
     password:123456
   },
