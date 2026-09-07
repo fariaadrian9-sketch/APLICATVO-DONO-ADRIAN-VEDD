@@ -11,10 +11,10 @@ export const initialAdmins: Admin[] = [
 
 export const initialEmployees: Employee[] = [
   {
-    id:'emp-001',
-    name:'usuario-comum',
-    login:'Adrian1',
-    password:'123456',
+    id: 'emp-001',
+    name: 'usuario-comum',
+    login: '05347357975',
+    password: '123456',
 
   }
 ];
