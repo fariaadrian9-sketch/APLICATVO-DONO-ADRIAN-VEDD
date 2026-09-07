@@ -12,8 +12,8 @@ export const initialAdmins: Admin[] = [
 export const initialEmployees: Employee[] = [
   {
     id:'emp-001',
-    name:'usuario comum',
-    login:'Adrian@',
+    name:'usuario-comum',
+    login:'Adrian1',
     password:'123456',
 
   }
