@@ -6,14 +6,18 @@ export const initialAdmins: Admin[] = [
     name: 'Administrador',
     login: '14027455916',
     password: '45032010',
-    ID: 'funcionario'
-    name:'funcionario 01'
-    login:Adrian@
-    password:123456
   },
 ];
 
-export const initialEmployees: Employee[] = [];
+export const initialEmployees: Employee[] = [
+  {
+    id:'emp-001',
+    name:'usuario comum',
+    login:'Adrian@',
+    password:'123456',
+
+  }
+];
 export const initialDocuments: HRDocument[] = [];
 export const initialEPIs: EPI[] = [];
 export const initialNRs: NR[] = [];
