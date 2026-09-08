@@ -16,7 +16,7 @@ export const initialEmployees: Employee[] = [
     login: '05347357975',
     password: '123456',
 
-  }
+  },
 ];
 export const initialDocuments: HRDocument[] = [];
 export const initialEPIs: EPI[] = [];
