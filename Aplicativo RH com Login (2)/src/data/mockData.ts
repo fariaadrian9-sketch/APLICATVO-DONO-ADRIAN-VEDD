@@ -9,7 +9,7 @@ export const initialAdmins: Admin[] = [
   },
 ];
 
-export const initialEmployees: Employee[] = [
+export const  initialEmployees: Employee[] = [
   {
     id: 'emp-001',
     name: 'usuario-comum',
