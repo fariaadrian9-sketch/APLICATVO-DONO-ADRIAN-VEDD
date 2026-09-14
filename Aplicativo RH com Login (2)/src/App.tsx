@@ -101,6 +101,8 @@ export default function App() {
   const removeDocument = (id: string) =>
     setDocuments(prev => prev.filter(d => d.id !== id));
   const signDocument = (docId: string, signature: string) =>
+
+
     setDocuments(prev => prev.map(d =>
       d.id === docId ? { ...d, signature, signedAt: new Date().toISOString() } : d
     ));
